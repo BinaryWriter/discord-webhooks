@@ -2,7 +2,7 @@
 [![Repo Size](https://img.shields.io/github/repo-size/BinaryWriter/discord-webhooks)](https://github.com/BinaryWriter/discord-webhooks)
 [![Issues](https://img.shields.io/github/issues/BinaryWriter/discord-webhooks)](https://github.com/BinaryWriter/discord-webhooks/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/BinaryWriter/discord-webhooks)](https://github.com/BinaryWriter/discord-webhooks/pulls)
-[![Jitpack.IO Repo](https://jitpack.io/v/BinaryWriter/discord-webhooks.svg)](https://github.com/BinaryWriter/discord-webhooks)
+[![Jitpack.IO Repo](https://jitpack.io/v/BinaryWriter/discord-webhooks.svg)](https://jitpack.io/#BinaryWriter/discord-webhooks)
 
 ---
 ### Download
